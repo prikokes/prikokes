@@ -1,5 +1,5 @@
 # Hi, I'm George Ivanov
-HSE SE FCS Student
+Sofware Engineering HSE FCS Student
 
 [GitHub](https://github.com/prikokes) [Telegram](https://t.me/prikokes) Moscow 
 
